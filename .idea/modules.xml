@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access/Access.iml" filepath="$PROJECT_DIR$/Access/Access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Companion/Companion.iml" filepath="$PROJECT_DIR$/Companion/Companion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module/Module.iml" filepath="$PROJECT_DIR$/Module/Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Access/Module/Module1.iml" filepath="$PROJECT_DIR$/Access/Module/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module/TestModule/TestModule.iml" filepath="$PROJECT_DIR$/Module/TestModule/TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-tutorial.iml" filepath="$PROJECT_DIR$/.idea/kotlin-tutorial.iml" />
+    </modules>
+  </component>
+</project>
